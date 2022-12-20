@@ -1,7 +1,7 @@
 html {
   background-color: #E5D9B6;
   background-image: -webkit-linear-gradient(65deg, #5F8D4E 50%, #E5D9B6 50%);
-  min-height: 1000px;
+  min-height: 900px;
   font-family: 'Nunito', sans-serif;
 }
 
@@ -95,10 +95,4 @@ input[type="text"]:focus {
 ::placeholder {
   color: grey;
   opacity: 1;
-}
-
-footer {
-  color: white;
-  color: rgba(0, 0, 0, 0.5);
-  text-align: center;
 }
